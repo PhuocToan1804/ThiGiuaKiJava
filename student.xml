@@ -1,0 +1,27 @@
+<students>
+    <student>
+        <id>1</id>
+        <name>Trương Phước Toàn</name>
+        <address>Quảng Nam</address>
+        <dateOfBirth>2005-04-18</dateOfBirth>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Trương Thị Hà Vi</name>
+        <address>Hồ Chí Minh</address>
+        <dateOfBirth>1999-01-15</dateOfBirth>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Trương Thị Thu Hà</name>
+        <address>Ha Noi</address>
+        <dateOfBirth>2003-10-21</dateOfBirth>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Trương Minh Tuấn</name>
+        <address>Đà Nẵng</address>
+        <dateOfBirth>2007-01-01</dateOfBirth>
+    </student>
+    <!--  more students  -->
+</students>
